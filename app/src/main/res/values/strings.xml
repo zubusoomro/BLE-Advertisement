@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MainActivity</string>
+    <string name="app_name">BLE Advertisement</string>
+    <string name="ble_uuid">8b51dd02-38e2-44f1-a1c6-0dc395440117</string>
 </resources>
